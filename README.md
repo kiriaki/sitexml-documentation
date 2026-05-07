@@ -1,1 +1,1 @@
-Support documents for the siteXML schema 
+Support documents for the SERA SiteXML schema 
